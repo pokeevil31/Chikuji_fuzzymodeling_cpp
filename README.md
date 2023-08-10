@@ -1,6 +1,16 @@
 # Chikuji_fuzzymodeling_cpp
 C++による逐次法ファジィモデリング．
 
+## ファイルの説明
+
+`fuzzy_sys.cpp`はファジィシステムの実装のソースコードになる．
+
+`chikuji.cpp`には逐次法ファジィモデリングの本体とデータの作成関数などのサポート関数が書かれている．
+
+`chikuji.h`は`chikuji.cpp`のヘッダーファイルである．
+
+`main.cpp`は実行するメインファイルである．
+
 ## すぐに使えるための説明
 
 `Microsoft Visual Studio Community 2022 (64-bit) Version 17.0.2`にてプロジェクトで実装した．
