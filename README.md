@@ -1,7 +1,7 @@
 # Chikuji_fuzzymodeling_cpp
 C++による逐次法ファジィモデリング．
 
-## すぐに使用するための説明
+## すぐに使えるための説明
 
 `Microsoft Visual Studio Community 2022 (64-bit) Version 17.0.2`にてプロジェクトで実装した．
 
